@@ -1,0 +1,15 @@
+D:\Visual Studio\Exercise 2 final\obj\Debug\netcoreapp3.1\Exercise 2 final.csprojAssemblyReference.cache
+D:\Visual Studio\Exercise 2 final\obj\Debug\netcoreapp3.1\Exercise 2 final.AssemblyInfoInputs.cache
+D:\Visual Studio\Exercise 2 final\obj\Debug\netcoreapp3.1\Exercise 2 final.AssemblyInfo.cs
+D:\Visual Studio\Exercise 2 final\bin\Debug\netcoreapp3.1\Exercise 2 final.exe
+D:\Visual Studio\Exercise 2 final\bin\Debug\netcoreapp3.1\Exercise 2 final.deps.json
+D:\Visual Studio\Exercise 2 final\bin\Debug\netcoreapp3.1\Exercise 2 final.runtimeconfig.json
+D:\Visual Studio\Exercise 2 final\bin\Debug\netcoreapp3.1\Exercise 2 final.runtimeconfig.dev.json
+D:\Visual Studio\Exercise 2 final\bin\Debug\netcoreapp3.1\Exercise 2 final.dll
+D:\Visual Studio\Exercise 2 final\bin\Debug\netcoreapp3.1\Exercise 2 final.pdb
+D:\Visual Studio\Exercise 2 final\bin\Debug\netcoreapp3.1\ProgrammingAssignment2.exe
+D:\Visual Studio\Exercise 2 final\bin\Debug\netcoreapp3.1\ProgrammingAssignment2.pdb
+D:\Visual Studio\Exercise 2 final\bin\Debug\netcoreapp3.1\ProgrammingAssignment2.exe.config
+D:\Visual Studio\Exercise 2 final\obj\Debug\netcoreapp3.1\Exercise 2 final.csproj.CopyComplete
+D:\Visual Studio\Exercise 2 final\obj\Debug\netcoreapp3.1\Exercise 2 final.dll
+D:\Visual Studio\Exercise 2 final\obj\Debug\netcoreapp3.1\Exercise 2 final.pdb

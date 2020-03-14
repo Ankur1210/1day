@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Exercise_2_final</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ProgrammingAssignment2">
+      <HintPath>..\..\zip files\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
